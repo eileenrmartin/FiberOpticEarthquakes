@@ -1,0 +1,2 @@
+magnitude 	 latitude 	 longitude 	 depth (km) 	 seconds-between-samples 
+3.2	38.559167	-122.28733	4.81	 0.02 
